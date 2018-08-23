@@ -18,5 +18,6 @@
 		<typeAlias alias="ApplicationServiceMethod" type="com.handu.open.dubbo.monitor.domain.ApplicationServiceMethod" />
 		<typeAlias alias="AppItem" type="com.handu.open.dubbo.monitor.domain.AppItem" />
 		<typeAlias alias="AppAlarm" type="com.handu.open.dubbo.monitor.domain.AppAlarm" />
+		<!-- test -->
 	</typeAliases>
 </configuration>  
